@@ -17,10 +17,11 @@ nav {
     display: flex;
 }
 
-.wrapper >div {
+.wrapper >div{
     flex: 1;
     text-align: center;
 }
+
 
 section {
     float: left;
