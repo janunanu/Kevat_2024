@@ -1,1 +1,1 @@
-Tähän tekstiä
+Verkkosivujen kehittäminen -kurssin aikana tehtyjä tehtäviä

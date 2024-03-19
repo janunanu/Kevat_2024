@@ -1,0 +1,152 @@
+body {
+    background-color: antiquewhite;
+}
+header {
+    background-color:burlywood;
+    color:black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    padding: 20px;
+    border-left: 2px solid rgb(1, 54, 38);
+}
+
+nav {
+    background-color:bisque;
+    color: rgb(1, 54, 38);
+    border-right: 2px solid black;
+    width: 15%;
+    float: left;
+    text-align: left;
+    font-size: 1vw;
+    height: 200vh;
+    margin-right: 30px;
+    margin-left: none;
+}
+.info {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    height: 10%;
+    padding: 20px;
+    
+}
+.Etusivulle {
+    background-color: bisque;
+    color: rgb(1, 54, 38);
+}
+span {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(1, 54, 38);
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+
+}
+
+figcaption {
+    font-family: Arial, Helvetica, sans-serif, cursive;
+    font-size: 1px;
+}
+main {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.border {
+    float:right;
+    margin-right: 30px;
+    margin-top:100px;
+    width: 40%;
+    border-right: 2px solid black;
+    border-radius: 20px;
+    padding: 50px;
+    background-color:blanchedalmond;
+}
+
+h1, h2 {
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    border: 2px dashed black;
+    padding: 10px;
+}
+
+.header {
+    background-color:burlywood;
+    color:darkolivegreen;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid darkolivegreen;
+}
+
+.navi {
+    color: darkolivegreen;
+    background-color: darksalmon;
+    float: left;
+    padding: 30px;
+    display: inline;
+    margin-right: 30px;
+    height: 200vw;
+    z-index: 0;
+}
+
+.section {
+    
+    background-color: antiquewhite;
+    text-align: left;
+    padding-top: 30px;
+    padding-right: 30px;
+    
+}
+
+aside {
+    border: 2px dotted chocolate;
+    background-color: olive;
+    color: antiquewhite;
+    width: 15%;
+    float: right;
+    padding: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.insta {
+    list-style-image: url("instagram-1675670_1280.png");
+
+}
+
+article {
+    width: 40%;
+    height: 30%;
+    border-left: 2px solid chocolate;
+    float: left;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    z-index: 1;
+    
+}
+
+footer {
+    padding: 20px;
+    background-color: sandybrown;
+    color: olive;
+    clear: both;
+    z-index: 2;
+    text-align: center;
+}
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
+
