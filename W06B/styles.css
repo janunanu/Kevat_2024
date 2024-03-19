@@ -59,8 +59,7 @@ main {
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    color: olive;
-    padding: 20px; 
+    color: olive; 
 }
 figure {
     margin-top: 30px;
@@ -99,6 +98,7 @@ footer {
     float: left;
     margin-right: 30px;
     margin-left: 30px;
+    
 }
 .oikea {
     width: 40%;
