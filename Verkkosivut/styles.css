@@ -1,0 +1,108 @@
+
+body {
+    background-color: white;
+    background-image: url("marble-3534940_1280.jpg");
+}
+
+
+h1 {
+    text-align: center;
+    font-style: arial;
+    color: rgb(18, 95, 102);
+    margin-top: 100px;
+    margin-bottom: 50px;
+    
+}
+
+ul {
+    display: none;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+h5 {
+    color: gray;
+    font-size: x-large;
+    background-color: white;
+}
+
+p {
+    color: gray;
+    font-size: 20px;
+    background-color: white; 
+    
+
+}
+.col-4 {
+    margin-top: 100px;
+}
+.esittely {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.frontti {
+    padding: 30px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+footer {
+    
+    background-color: whitesmoke;
+    margin-top: 20px;
+    font-size: 10px;
+    padding: 20px;
+    
+}
+
+.info {
+    font-size: 15px;
+    background-color: whitesmoke;
+
+}
+.alue {
+    font-size: 15px;
+    background-color: whitesmoke;
+    text-align: left;
+}
+.col-6 {
+    text-align: center;
+}
+.col-2 {
+    text-align: right;
+}
+span { 
+    font-style: normal;
+    font-size: small;
+}
+table {
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    width: 1000px;
+    border: 0;
+}
+img {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
