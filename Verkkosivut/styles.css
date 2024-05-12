@@ -7,7 +7,6 @@ body {
 
 h1 {
     text-align: center;
-    font-style: arial;
     color: rgb(18, 95, 102);
     margin-top: 100px;
     margin-bottom: 30px;
@@ -133,10 +132,10 @@ a:link {
     border: none;
     padding: 30px;
   }
-button { 
-    min-width: 25px;
-    min-height: 25px;
-}
+  i {
+    font-size: 25px;
+  }
+
 .sample {
     float: left;
  }
