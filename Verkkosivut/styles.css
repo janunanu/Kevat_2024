@@ -10,7 +10,7 @@ h1 {
     font-style: arial;
     color: rgb(18, 95, 102);
     margin-top: 100px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     
 }
 
@@ -75,16 +75,13 @@ footer {
     background-color: whitesmoke;
     text-align: left;
 }
-.col-6 {
+.col-sm-6 {
     text-align: center;
 }
-.col-2 {
+.col-sm-2 {
     text-align: right;
 }
-span { 
-    font-style: normal;
-    font-size: small;
-}
+
 table {
     background-color: white;
     margin: auto;
@@ -95,7 +92,60 @@ table {
 img {
     margin-top: 50px;
 }
+.mb-3 {
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
+a:link {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(18, 95, 102);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: bisque;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: bisque;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  #yhteystiedot {
+    font-size: 15px;
+    margin-left: 50px;
+  }
+  .caption {
+    margin-left: 50px;
+  }
+  .tarjous {
+    background-color: gray;
+    color: white;
+    border: none;
+    padding: 30px;
+  }
+button { 
+    min-width: 25px;
+    min-height: 25px;
+}
+.sample {
+    float: left;
+ }
+ figure {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
 
 
 
