@@ -50,9 +50,10 @@ p {
 .frontti {
     padding: 30px;
     text-align: center;
-    margin-left: 50px;
-    margin-right: 50px;
+   
     margin-top: 50px;
+    width: 100%;
+    min-height: 200px;
 
 }
 footer {
@@ -72,12 +73,12 @@ footer {
 .alue {
     font-size: 15px;
     background-color: whitesmoke;
-    text-align: left;
-}
-.col-sm-6 {
     text-align: center;
 }
-.col-sm-2 {
+.col-md-6 {
+    text-align: center;
+}
+.col-md-2 {
     text-align: right;
 }
 
@@ -85,11 +86,13 @@ table {
     background-color: white;
     margin: auto;
     margin-top: 50px;
-    width: 1000px;
+    width: 90%;
     border: 0;
 }
 img {
     margin-top: 50px;
+    max-width: 1500px;
+    width: 100%;
 }
 .mb-3 {
     margin-left: 50px;
@@ -145,7 +148,17 @@ a:link {
     margin-top: 50px;
     margin-bottom: 50px;
  }
-
+ #carouselExampleCaptions {
+    max-width: 400px;
+    max-height: 600px;
+    width: 100%;
+    margin: auto;
+    
+ }
+ .pexels {
+    max-width: 1200px;
+    max-height: 800px;
+ }
 
 
 
